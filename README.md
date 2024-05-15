@@ -14,3 +14,8 @@ Práctica de consumo de APIs en páginas web mediante código en JavaScript
 
 ## API
 ![](https://github.com/YuverlyHidokun/Prueba-1-DAW/blob/main/Api.png?raw=true)
+
+## Adivinó
+![](https://github.com/YuverlyHidokun/Prueba-1-DAW/blob/main/Correcto.png?raw=true)
+## No adivinó
+![]([https://github.com/YuverlyHidokun/Prueba-1-DAW/blob/main/Api.png?raw=true](https://github.com/YuverlyHidokun/Prueba-1-DAW/blob/main/ERROR.png?raw=true))
