@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+}
+hr {
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 20px 0;
+}
+.custom-heading {
+    color: #333;
+    margin: 0;
+    text-align: center;
+}
+.text-center {
+    text-align: center;
+}
+.custom-input {
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-right: 5px;
+}
+.custom-button {
+    padding: 8px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.custom-button:hover {
+    background-color: #0056b3;
+}
+.apis-container {
+    display: inline-block;
+    width: 30%;
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+    margin-left: 200px;
+}
+.apis-container img {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+.progress {
+    width: 100%;
+    max-width: 500%;
+}
+@font-face {
+    font-family: 'Get Schwifty';
+    src: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/3089507/get-schwifty.woff') format('woff');
+}
+.titulo {
+    font-family: 'Get Schwifty';
+    text-align: center;
+    font-size: 5em;
+    color: #39FF14;
+    -webkit-text-stroke: 2px yellow;
+}
